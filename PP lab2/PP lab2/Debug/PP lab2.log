@@ -1,0 +1,3 @@
+﻿  mn.cpp
+C:\Users\Dlink\source\repos\PP lab2\PP lab2\mn.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  PP lab2.vcxproj -> C:\Users\Dlink\source\repos\PP lab2\Debug\PP lab2.exe

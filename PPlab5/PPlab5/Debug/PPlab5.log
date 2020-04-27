@@ -1,0 +1,3 @@
+﻿  5l.cpp
+C:\Users\Dlink\source\repos\PPlab5\PPlab5\5l.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PPlab5.vcxproj -> C:\Users\Dlink\source\repos\PPlab5\Debug\PPlab5.exe

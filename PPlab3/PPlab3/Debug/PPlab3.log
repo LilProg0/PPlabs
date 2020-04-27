@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+C:\Users\Dlink\source\repos\PPlab3\PPlab3\lab3.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Dlink\source\repos\PPlab3\PPlab3\lab3.cpp(34,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PPlab3.vcxproj -> C:\Users\Dlink\source\repos\PPlab3\Debug\PPlab3.exe
